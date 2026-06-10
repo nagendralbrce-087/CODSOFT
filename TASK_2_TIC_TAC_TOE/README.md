@@ -23,4 +23,6 @@ Run the notebook and enter positions from 1 to 9.
 
 ## Author
 
+V. Venkata Nagendra
+
 CodSoft Artificial Intelligence Internship
