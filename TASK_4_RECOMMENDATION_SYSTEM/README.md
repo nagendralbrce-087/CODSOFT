@@ -58,4 +58,6 @@ TASK_4_RECOMMENDATION_SYSTEM
 
 ## Author
 
+V. Venkata Nagendra
+
 CodSoft Artificial Intelligence Internship
