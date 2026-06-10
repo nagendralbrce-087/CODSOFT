@@ -26,9 +26,8 @@ The system identifies faces and draws bounding boxes around detected faces.
 3. Detect faces using Haar Cascade.
 4. Draw bounding boxes.
 5. Display result.
-
 ## Author
 
+V. Venkata Nagendra
+
 CodSoft Artificial Intelligence Internship
-"""
- 
