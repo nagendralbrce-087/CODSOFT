@@ -18,3 +18,9 @@ Bot: Hello! How can I help you?
 
 You: bye
 Bot: Goodbye! Have a nice day.
+
+## Author
+
+V. Venkata Nagendra
+
+CodSoft Artificial Intelligence Internship
