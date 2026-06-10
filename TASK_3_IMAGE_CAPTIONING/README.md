@@ -58,4 +58,6 @@ TASK_3_IMAGE_CAPTIONING
 
 ## Author
 
+V. Venkata Nagendra
+
 CodSoft Artificial Intelligence Internship
